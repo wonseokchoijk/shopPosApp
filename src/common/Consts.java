@@ -4,7 +4,7 @@ public class Consts {
 
 	public final static String TITLE = "ELIM Management System 2.0";	// ���α׷� �̸�
 
-	public final static String CONF_PATH = "../conf/";
+	public final static String CONF_PATH = "conf/";
 
 	public final static String PROPERTIES_FILE = CONF_PATH + "conf.properties";
 
